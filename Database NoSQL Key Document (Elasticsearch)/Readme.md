@@ -3,7 +3,7 @@ In questa sezione è presente il materiale relativo alla progettazione, implemen
 
 ### Contenuti della cartella
 * **README.md**: Descrizione generale del progetto.
-* **Analisi_Completa.pdf**: Il documento con l'analisi dei requisiti, la definizione dei mapping JSON, il popolamento bulk e gli script Python completi.
+* **Analisi_Completa.pdf**: Documento con l'analisi dei requisiti, la definizione dei mapping JSON, il popolamento bulk e gli script Python completi.
 
 ### Panoramica del progetto
 L'obiettivo del progetto è gestire in modo efficiente gli annunci occupazionali distribuiti sul territorio pugliese, superando i limiti dei database tradizionali nella ricerca su testi liberi ed estesi. In particolare permette di:
