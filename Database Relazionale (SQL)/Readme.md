@@ -1,4 +1,4 @@
-# Database Relazionale (SQL)
+# Database Relazionale (SQL) - Palestra Privata
 In questa sezione è presente il materiale relativo allo studio e alla progettazione di un database relazionale di una palestra privata.
 
 ### Contenuti nella cartella
